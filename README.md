@@ -2,15 +2,16 @@
 
 A new Flutter application.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### A flutter application that is used with a shopping cart to scan the cart QR code and disply its information
+     * cart id
+     * cart name
+     * total price of the products in the cart
+     * all products in the cart
+     * quantity of each product and its price
+#### Provide customer with many other features
+     * login
+     * registeration
+     * see all the products without being at market
+     * update account information
